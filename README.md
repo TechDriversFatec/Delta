@@ -22,4 +22,4 @@
 
 ## - Link do vídeo:
 
-https://youtu.be/blmVPCA8i4k
+https://youtu.be/Mo0mdfDAs0w
