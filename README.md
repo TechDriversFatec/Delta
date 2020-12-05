@@ -1,6 +1,8 @@
 # Feira de Soluções - Fatec São José dos Campos - Brasil
 
 
+## - Projeto: Sistema de controle de ferramentaria.
+
 ## - Integrantes
 * Christian Arilio Bezerra de Queiroz;
 * Karen Roithmeier Rodrigues;
