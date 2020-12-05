@@ -14,7 +14,7 @@
 ## - Linkedin 
 
 * Christian Arilio Bezerra de Queiroz - https://www.linkedin.com/in/christian-queiroz-sjc
-* Karen Roithmeier Rodrigues - Não possui conta.
+* Karen Roithmeier Rodrigues - linkedin.com/in/karen-roithmeier-rodrigues-531454201
 * Lucas Sergio de Oliveira - www.linkedin.com/in/lucas-sergio-0b4b02192
 * Marcio Siqueira Pereira - http://linkedin.com/in/marciosiqueirapereira
 * Mayara Carolina Ferreira de Lima - Não possui conta.
