@@ -23,3 +23,4 @@
 ## - Link do vídeo:
 
 https://drive.google.com/drive/folders/1t1aRCVMQhhXE7azJHcTE_Gr60B_tVKov?usp=sharing
+# Delta
